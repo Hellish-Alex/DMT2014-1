@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<q>
+					<option value="101">Музыка</option>
+					<option value="102">Аудиокниги</option>
+					<option value="103">Аудиозаписи</option>
+					<option value="104">Lossless</option>
+					<option value="199">Другое</option>
+					<option value="201">Фильмы</option>
+					<option value="202">Фильмы DVDR</option>
+					<option value="203">Музыкальные видео</option>
+					<option value="204">Видеоролики</option>
+					<option value="205">ТВ передачи</option>
+					<option value="206">КПК</option>
+					<option value="207">HD - Movies</option>
+					<option value="208">HD - TV shows</option>
+					<option value="209">3D</option>
+					<option value="299">Другое</option>
+					<option value="301">Windows</option>
+					<option value="302">Mac OS</option>
+					<option value="303">UNIX</option>
+					<option value="304">КПК</option>
+					<option value="305">IOS (iPad/iPhone)</option>
+					<option value="306">Android</option>
+					<option value="399">Другие ОС</option>
+					<option value="401">PC</option>
+					<option value="402">Mac OS</option>
+					<option value="403">PSx</option>
+					<option value="404">XBOX360</option>
+					<option value="405">Wii</option>
+					<option value="406">КПК</option>
+					<option value="407">IOS (iPad/iPhone)</option>
+					<option value="408">Android</option>
+					<option value="499">Другое</option>
+					<option value="501">Фильмы</option>
+					<option value="502">Фильмы DVDR</option>
+					<option value="503">Картинки</option>
+					<option value="504">Игры</option>
+					<option value="505">HD - Movies</option>
+					<option value="506">Видеоролики</option>
+					<option value="599">Другое</option>
+					<option value="601">Электронные книги</option>
+					<option value="602">Комиксы</option>
+					<option value="603">Картинки</option>
+					<option value="604">Обложки</option>
+					<option value="605">Physibles</option>
+					<option value="699">Другое</option>
+</q>
