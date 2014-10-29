@@ -1,0 +1,17 @@
+regret 3
+repent 2
+forgive 2
+sorry 3
+deplore 2
+apologize 2
+apologies 2
+apology 2
+mistake 3
+self-reproach 3
+guilt 3
+guilty 2
+ashamed 1
+remorse 2
+remorseful 2
+bewail 1
+deserve 2
